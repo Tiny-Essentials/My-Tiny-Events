@@ -37,6 +37,7 @@
     "url": "git+https://github.com/Tiny-Essentials/My-Tiny-Events.git"
   },
   "keywords": [
+    "my-tiny-events",
     "event-emitter",
     "emitter",
     "events",
