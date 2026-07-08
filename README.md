@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./md-assets/my-tiny-events-suite.jpg" alt="banner" />
+<img src="./md-assets/my-tiny-events.jpg" alt="banner" />
 <p>
     <a href="https://discord.gg/TgHdvJd"><img src="https://img.shields.io/discord/413193536188579841?color=7289da&logo=discord&logoColor=white" alt="Discord server" /></a>
     <a href="https://www.npmjs.com/package/my-tiny-events"><img src="https://img.shields.io/npm/v/my-tiny-events.svg?maxAge=3600" alt="NPM version" /></a>
