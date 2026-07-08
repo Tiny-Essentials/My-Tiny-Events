@@ -1,9 +1,9 @@
 <div align="center">
-<img src="./md-assets/tiny-crypto-suite.jpg" alt="banner" />
+<img src="./md-assets/my-tiny-events-suite.jpg" alt="banner" />
 <p>
     <a href="https://discord.gg/TgHdvJd"><img src="https://img.shields.io/discord/413193536188579841?color=7289da&logo=discord&logoColor=white" alt="Discord server" /></a>
-    <a href="https://www.npmjs.com/package/tiny-crypto-suite"><img src="https://img.shields.io/npm/v/tiny-crypto-suite.svg?maxAge=3600" alt="NPM version" /></a>
-    <a href="https://www.npmjs.com/package/tiny-crypto-suite"><img src="https://img.shields.io/npm/dt/tiny-crypto-suite.svg?maxAge=3600" alt="NPM downloads" /></a>
+    <a href="https://www.npmjs.com/package/my-tiny-events"><img src="https://img.shields.io/npm/v/my-tiny-events.svg?maxAge=3600" alt="NPM version" /></a>
+    <a href="https://www.npmjs.com/package/my-tiny-events"><img src="https://img.shields.io/npm/dt/my-tiny-events.svg?maxAge=3600" alt="NPM downloads" /></a>
 </p>
 <p>
     <a href="https://www.patreon.com/JasminDreasond"><img src="https://img.shields.io/badge/donate-patreon-F96854.svg?logo=patreon" alt="Patreon" /></a>
@@ -12,7 +12,7 @@
     <a href="https://chain.so/address/LTC/ltc1qchk520v4u8334n5dntmgeja55gc5g5rrkgpd4f"><img src="https://img.shields.io/badge/donate-litecoin-345D9D.svg?logo=litecoin" alt="Litecoin" /></a>
 </p>
 <p>
-    <a href="https://nodei.co/npm/tiny-crypto-suite/"><img src="https://nodei.co/npm/tiny-crypto-suite.png?downloads=true&stars=true" alt="npm installnfo" /></a>
+    <a href="https://nodei.co/npm/my-tiny-events/"><img src="https://nodei.co/npm/my-tiny-events.png?downloads=true&stars=true" alt="npm installnfo" /></a>
 </p>
 </div>
 
