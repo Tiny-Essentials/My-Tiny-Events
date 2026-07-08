@@ -1,7 +1,7 @@
 {
   "name": "my-tiny-events",
   "version": "1.0.0",
-  "description": "",
+  "description": "A lightweight, dependency-free event emitter system for JavaScript and TypeScript, inspired by Node.js EventEmitter with support for multi-event handling and listener management.",
   "scripts": {
     "test": "npm run test:mjs && npm run test:cjs && npm run test:js",
     "test:js": "node -r @babel/register test/index.js",
@@ -36,7 +36,19 @@
     "type": "git",
     "url": "git+https://github.com/Tiny-Essentials/My-Tiny-Events.git"
   },
-  "keywords": [],
+  "keywords": [
+    "event-emitter",
+    "emitter",
+    "events",
+    "observer",
+    "lightweight",
+    "dependency-free",
+    "tiny",
+    "node-events",
+    "browser-events",
+    "javascript",
+    "event-driven"
+  ],
   "author": "Yasmin Seidel (Jasmin Dreasond)",
   "license": "LGPL-3.0-only",
   "bugs": {
